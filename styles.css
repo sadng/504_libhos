@@ -1,0 +1,32 @@
+#map{
+  width: auto;
+  height: 98vh
+}
+
+h1{
+  font-weight: bold;
+  font-size: 3vw;
+}
+
+h2{
+  font-size: 15px;
+}
+
+p1{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+p2{
+  font-style: italic;
+}
+
+p3, a{
+  font-style: italic;
+  font-size: 1.5vw;
+  color: rgb(80, 80, 80);
+}
+
+p4{
+  font-size: 2vw;
+}
